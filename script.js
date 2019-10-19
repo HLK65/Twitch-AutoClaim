@@ -9,6 +9,7 @@
 // @exclude      https://www.twitch.tv/*/*
 // @exclude      https://twitch.tv/*/*
 // @grant        none
+// inspired by https://github.com/ran-su/Netflix-marathon
 // ==/UserScript==
 
 
